@@ -3,6 +3,8 @@ Fragmention Drupal module
 
 Fragmention concept in a Drupal module.
 
+Currently this is a sandbox module located at [https://drupal.org/sandbox/ocean/2247743](https://drupal.org/sandbox/ocean/2247743).
+
 Contents
 ---------------------
 
