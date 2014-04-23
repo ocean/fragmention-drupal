@@ -1,0 +1,8 @@
+name = Fragmention
+description = Enables a JavaScript polyfill for <a href="http://indiewebcamp.com/fragmention">"fragmentions"</a>.
+package = User interface
+core = 7.x
+
+scripts[] = fragmention.js
+
+;version = "7.x-0.1"

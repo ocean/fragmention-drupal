@@ -1,0 +1,15 @@
+<?php
+
+/**
+ * @file
+ * Fragmention: Enables polyfill for "fragmention"
+ *
+ * Hook together all the typogrify components.
+ */
+
+/**
+ * Implements hook_init().
+ */
+function fragmention_init() {
+  drupal_add_js(drupal_get_path('module', 'fragmention') . '/fragmention.js');
+}
