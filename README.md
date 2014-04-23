@@ -1,4 +1,4 @@
-fragmention-drupal
+Fragmention Drupal module
 ==================
 
 Fragmention concept in a Drupal module.
