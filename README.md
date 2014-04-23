@@ -14,6 +14,11 @@ Contents
 Introduction
 ------------
 
+The Fragmention module implements a JavaScript polyfill for the [Fragmention concept](http://indiewebcamp.com/fragmention) which was created by [Kevin Marks](http://kevinmarks.com) on the [Indie Web Camp](http://indiewebcamp.com/) discussion forum.
+
+>Fragmentions find the first matching word or phrase in a document and focuses its closest surrounding element. The match is determined by the case-sensitive string following the ## double-hash. The closest surrounding element may be a span, paragraph, heading, button, input, or any other container.
+
+This module is a simple implementation of [Jonathan Neal's](http://www.jonathantneal.com/) [Fragmentions script](https://github.com/chapmanu/fragmentions).
 
 
 Installation
@@ -26,5 +31,5 @@ Installation
 
 Credits
 -------
-* [Kevin Marks](kevinmarks.com)
-* [Jonathan Neal](www.jonathantneal.com)
+* [Kevin Marks](http://kevinmarks.com)
+* [Jonathan Neal](http://www.jonathantneal.com)
