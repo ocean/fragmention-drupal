@@ -1,27 +1,13 @@
 Fragmention Drupal module
 ==================
 
-Fragmention concept in a Drupal module.
-
-Currently this is a sandbox module located at [https://drupal.org/sandbox/ocean/2247743](https://drupal.org/sandbox/ocean/2247743).
-
-Contents
----------------------
-
- * Introduction
- * Installation
- * Credits
-
-
-Introduction
-------------
-
-The Fragmention module implements a JavaScript polyfill for the [Fragmention concept](http://indiewebcamp.com/fragmention) which was created by [Kevin Marks](http://kevinmarks.com) on the [Indie Web Camp](http://indiewebcamp.com/) discussion forum.
+The [Fragmention concept](http://indiewebcamp.com/fragmention) is a cross between URL "hash" fragment identifiers and in-browser full-text search, which was created by [Kevin Marks](http://kevinmarks.com) on the [Indie Web Camp](http://indiewebcamp.com/) discussion forum.
 
 >Fragmentions find the first matching word or phrase in a document and focuses its closest surrounding element. The match is determined by the case-sensitive string following the ## double-hash. The closest surrounding element may be a span, paragraph, heading, button, input, or any other container.
 
-This module is a simple implementation of [Jonathan Neal's](http://www.jonathantneal.com/) [Fragmentions script](https://github.com/chapmanu/fragmentions).
+The Fragmention module implements a JavaScript polyfill for the fragmention concept, which is loaded on every page. It is a simple implementation of [Jonathan Neal's](http://www.jonathantneal.com/) [Fragmentions JavaScript](https://github.com/chapmanu/fragmentions). The script is approximately 1200 bytes when minified, and approximately 500 bytes when minifed and gzipped.
 
+Currently this is a Drupal sandbox module located at [https://drupal.org/sandbox/ocean/2247743](https://drupal.org/sandbox/ocean/2247743).
 
 Installation
 ------------
